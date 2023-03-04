@@ -19,6 +19,6 @@
 - `php artisan migrate`
 - `php artisan serve`
 
-<div>
-Tags: ```exercice``` ```laravel```
-</div>
+<hr>
+
+Tags: `exercice` `laravel`
